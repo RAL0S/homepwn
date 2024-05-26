@@ -1,0 +1,8 @@
+[package_detail]
+name = "homepwn"
+description = "HomePwn: Swiss Army Knife for Pentesting of IoT Devices"
+version = "052821"
+source_url = "https://github.com/Telefonica/HomePWN"
+license = "GNU"
+install_script = "setup.sh"
+install_script_type = "shell"
